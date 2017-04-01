@@ -1,0 +1,3 @@
+Click on icon on desktop to run the program.
+-- OR --
+Run it from /home/INSERTUSER/.dance-reed/pro.sh

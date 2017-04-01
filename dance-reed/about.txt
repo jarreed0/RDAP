@@ -1,0 +1,2 @@
+This is the first test of develping rdap.
+This program, once installed, will allow to display a dancing figure made of text.
